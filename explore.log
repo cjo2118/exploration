@@ -1,0 +1,5 @@
+2024-04-16 18:19:40,055 - ExploreApp.src.explore.api.routes - INFO - Creating llm request
+2024-04-16 18:19:40,072 - ExploreApp.src.explore.api.routes - INFO - Created llm request
+2024-04-16 18:23:11,924 - ExploreApp.src.explore.api.routes - INFO - Creating llm request
+2024-04-16 18:23:11,925 - ExploreApp.src.explore.api.routes - INFO - input='string' response_shape='string' llm_type=<LLM.GPT_35: 1>
+2024-04-16 18:23:11,942 - ExploreApp.src.explore.api.routes - INFO - Created llm request
